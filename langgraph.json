@@ -1,0 +1,7 @@
+{
+  "dependencies": ["."],
+  "graphs": {
+    "exercise_3": "./Exercise3.py:local_graph"
+  },
+  "env": ".env"
+}
